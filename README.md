@@ -68,9 +68,7 @@ python3 search_tool.py find good friends
 | **`build`** | Crawls the website, builds the inverted index, and flushes it to disk. | `build` |
 | **`load`** | Loads a previously generated index file directly from disk cache. | `load` |
 | **`print <word>`** | Prints every indexed page containing `<word>` along with its frequency. | `print nonsense` |
-| **`find <word(s)>`** | Returns all pages containing the given keyword or *all* words inside a phrase. | `find indifference` <br>
-
-<br> `find good friends` |
+| **`find <word(s)>`** | Returns all pages containing the given keyword or *all* words inside a phrase. | `find indifference` <br> <br> `find good friends` |
 | **`help`** | Displays the diagnostic summary layout of available commands. | `help` |
 | **`quit`** | Gracefully breaks execution flow and exits the shell interface. | `quit` |
 
