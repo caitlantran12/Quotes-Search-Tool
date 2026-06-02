@@ -1,0 +1,3302 @@
+{
+  "the": {
+    "https://quotes.toscrape.com/": 3,
+    "https://quotes.toscrape.com/page/2/": 13,
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/4/": 9,
+    "https://quotes.toscrape.com/page/5/": 6,
+    "https://quotes.toscrape.com/page/6/": 5,
+    "https://quotes.toscrape.com/page/7/": 7,
+    "https://quotes.toscrape.com/page/8/": 9,
+    "https://quotes.toscrape.com/page/9/": 15,
+    "https://quotes.toscrape.com/page/10/": 7
+  },
+  "world": {
+    "https://quotes.toscrape.com/": 2,
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 2
+  },
+  "as": {
+    "https://quotes.toscrape.com/": 3,
+    "https://quotes.toscrape.com/page/2/": 2,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/6/": 2,
+    "https://quotes.toscrape.com/page/7/": 3,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "we": {
+    "https://quotes.toscrape.com/": 2,
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/4/": 3,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 2,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/9/": 2
+  },
+  "have": {
+    "https://quotes.toscrape.com/": 2,
+    "https://quotes.toscrape.com/page/2/": 2,
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/4/": 2,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/7/": 4,
+    "https://quotes.toscrape.com/page/9/": 3,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "created": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "it": {
+    "https://quotes.toscrape.com/": 8,
+    "https://quotes.toscrape.com/page/2/": 14,
+    "https://quotes.toscrape.com/page/3/": 3,
+    "https://quotes.toscrape.com/page/4/": 3,
+    "https://quotes.toscrape.com/page/5/": 2,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/7/": 11,
+    "https://quotes.toscrape.com/page/8/": 5,
+    "https://quotes.toscrape.com/page/9/": 4,
+    "https://quotes.toscrape.com/page/10/": 7
+  },
+  "is": {
+    "https://quotes.toscrape.com/": 12,
+    "https://quotes.toscrape.com/page/2/": 10,
+    "https://quotes.toscrape.com/page/3/": 7,
+    "https://quotes.toscrape.com/page/4/": 8,
+    "https://quotes.toscrape.com/page/5/": 7,
+    "https://quotes.toscrape.com/page/6/": 7,
+    "https://quotes.toscrape.com/page/7/": 5,
+    "https://quotes.toscrape.com/page/8/": 5,
+    "https://quotes.toscrape.com/page/9/": 6,
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "a": {
+    "https://quotes.toscrape.com/": 10,
+    "https://quotes.toscrape.com/page/2/": 9,
+    "https://quotes.toscrape.com/page/3/": 6,
+    "https://quotes.toscrape.com/page/4/": 2,
+    "https://quotes.toscrape.com/page/5/": 10,
+    "https://quotes.toscrape.com/page/6/": 6,
+    "https://quotes.toscrape.com/page/7/": 5,
+    "https://quotes.toscrape.com/page/8/": 5,
+    "https://quotes.toscrape.com/page/9/": 9,
+    "https://quotes.toscrape.com/page/10/": 8
+  },
+  "process": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "of": {
+    "https://quotes.toscrape.com/": 3,
+    "https://quotes.toscrape.com/page/2/": 15,
+    "https://quotes.toscrape.com/page/3/": 3,
+    "https://quotes.toscrape.com/page/4/": 3,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 3,
+    "https://quotes.toscrape.com/page/7/": 4,
+    "https://quotes.toscrape.com/page/8/": 4,
+    "https://quotes.toscrape.com/page/9/": 12,
+    "https://quotes.toscrape.com/page/10/": 3
+  },
+  "our": {
+    "https://quotes.toscrape.com/": 4,
+    "https://quotes.toscrape.com/page/2/": 2
+  },
+  "thinking": {
+    "https://quotes.toscrape.com/": 3,
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "cannot": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "be": {
+    "https://quotes.toscrape.com/": 7,
+    "https://quotes.toscrape.com/page/2/": 5,
+    "https://quotes.toscrape.com/page/3/": 3,
+    "https://quotes.toscrape.com/page/4/": 2,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/7/": 6,
+    "https://quotes.toscrape.com/page/9/": 4,
+    "https://quotes.toscrape.com/page/10/": 4
+  },
+  "changed": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "without": {
+    "https://quotes.toscrape.com/": 2,
+    "https://quotes.toscrape.com/page/3/": 3,
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "changing": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "albert": {
+    "https://quotes.toscrape.com/": 3,
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "einstein": {
+    "https://quotes.toscrape.com/": 3,
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 2,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "change": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "deep": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "thoughts": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "choices": {
+    "https://quotes.toscrape.com/": 2
+  },
+  "harry": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "that": {
+    "https://quotes.toscrape.com/": 2,
+    "https://quotes.toscrape.com/page/2/": 5,
+    "https://quotes.toscrape.com/page/3/": 5,
+    "https://quotes.toscrape.com/page/4/": 5,
+    "https://quotes.toscrape.com/page/6/": 3,
+    "https://quotes.toscrape.com/page/7/": 2,
+    "https://quotes.toscrape.com/page/8/": 4,
+    "https://quotes.toscrape.com/page/9/": 3,
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "show": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "what": {
+    "https://quotes.toscrape.com/": 3,
+    "https://quotes.toscrape.com/page/2/": 4,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/5/": 2,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 2,
+    "https://quotes.toscrape.com/page/9/": 3
+  },
+  "truly": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "are": {
+    "https://quotes.toscrape.com/": 4,
+    "https://quotes.toscrape.com/page/2/": 2,
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/7/": 3,
+    "https://quotes.toscrape.com/page/9/": 3,
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "far": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "more": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/4/": 4,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/9/": 2
+  },
+  "than": {
+    "https://quotes.toscrape.com/": 3,
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/9/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "abilities": {
+    "https://quotes.toscrape.com/": 2
+  },
+  "j": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/4/": 2,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/7/": 2,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 1,
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "k": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/4/": 2,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/9/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "rowling": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/4/": 2,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/9/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "there": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 2,
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/6/": 2,
+    "https://quotes.toscrape.com/page/7/": 2,
+    "https://quotes.toscrape.com/page/9/": 2
+  },
+  "only": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/5/": 2,
+    "https://quotes.toscrape.com/page/6/": 2,
+    "https://quotes.toscrape.com/page/8/": 3,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "two": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "ways": {
+    "https://quotes.toscrape.com/": 2
+  },
+  "to": {
+    "https://quotes.toscrape.com/": 5,
+    "https://quotes.toscrape.com/page/2/": 16,
+    "https://quotes.toscrape.com/page/3/": 7,
+    "https://quotes.toscrape.com/page/4/": 8,
+    "https://quotes.toscrape.com/page/5/": 5,
+    "https://quotes.toscrape.com/page/6/": 3,
+    "https://quotes.toscrape.com/page/7/": 13,
+    "https://quotes.toscrape.com/page/8/": 4,
+    "https://quotes.toscrape.com/page/9/": 7,
+    "https://quotes.toscrape.com/page/10/": 10
+  },
+  "live": {
+    "https://quotes.toscrape.com/": 2,
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/7/": 2,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "your": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 6,
+    "https://quotes.toscrape.com/page/3/": 3,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/5/": 3,
+    "https://quotes.toscrape.com/page/7/": 4
+  },
+  "life": {
+    "https://quotes.toscrape.com/": 3,
+    "https://quotes.toscrape.com/page/2/": 9,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/5/": 2,
+    "https://quotes.toscrape.com/page/6/": 4,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/9/": 2,
+    "https://quotes.toscrape.com/page/10/": 4
+  },
+  "one": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/5/": 2,
+    "https://quotes.toscrape.com/page/6/": 3,
+    "https://quotes.toscrape.com/page/7/": 2,
+    "https://quotes.toscrape.com/page/8/": 3,
+    "https://quotes.toscrape.com/page/9/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "though": {
+    "https://quotes.toscrape.com/": 2,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "nothing": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/7/": 2
+  },
+  "miracle": {
+    "https://quotes.toscrape.com/": 3
+  },
+  "other": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "everything": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 3,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "inspirational": {
+    "https://quotes.toscrape.com/": 3,
+    "https://quotes.toscrape.com/page/2/": 2,
+    "https://quotes.toscrape.com/page/4/": 2,
+    "https://quotes.toscrape.com/page/5/": 2,
+    "https://quotes.toscrape.com/page/6/": 2,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "miracles": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "person": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/10/": 3
+  },
+  "gentleman": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "or": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/3/": 5,
+    "https://quotes.toscrape.com/page/5/": 3,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "lady": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "who": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 2,
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/5/": 2,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/7/": 3,
+    "https://quotes.toscrape.com/page/8/": 2,
+    "https://quotes.toscrape.com/page/9/": 3,
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "has": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/6/": 2,
+    "https://quotes.toscrape.com/page/9/": 3
+  },
+  "not": {
+    "https://quotes.toscrape.com/": 4,
+    "https://quotes.toscrape.com/page/2/": 10,
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/4/": 3,
+    "https://quotes.toscrape.com/page/5/": 2,
+    "https://quotes.toscrape.com/page/6/": 6,
+    "https://quotes.toscrape.com/page/7/": 4,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 3,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "pleasure": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "in": {
+    "https://quotes.toscrape.com/": 2,
+    "https://quotes.toscrape.com/page/2/": 3,
+    "https://quotes.toscrape.com/page/3/": 6,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 4,
+    "https://quotes.toscrape.com/page/7/": 6,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 2,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "good": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 3,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/7/": 2,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "novel": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "must": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "intolerably": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "stupid": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "jane": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/9/": 4
+  },
+  "austen": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/9/": 4
+  },
+  "aliteracy": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "books": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 2,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/5/": 2,
+    "https://quotes.toscrape.com/page/6/": 3,
+    "https://quotes.toscrape.com/page/8/": 2,
+    "https://quotes.toscrape.com/page/9/": 1,
+    "https://quotes.toscrape.com/page/10/": 3
+  },
+  "classic": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/8/": 2
+  },
+  "humor": {
+    "https://quotes.toscrape.com/": 2,
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 5,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "imperfection": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "beauty": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "madness": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "genius": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/6/": 2
+  },
+  "and": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 14,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/5/": 2,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/7/": 10,
+    "https://quotes.toscrape.com/page/8/": 7,
+    "https://quotes.toscrape.com/page/9/": 6,
+    "https://quotes.toscrape.com/page/10/": 5
+  },
+  "s": {
+    "https://quotes.toscrape.com/": 2,
+    "https://quotes.toscrape.com/page/2/": 9,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/7/": 3,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 4,
+    "https://quotes.toscrape.com/page/10/": 3
+  },
+  "better": {
+    "https://quotes.toscrape.com/": 2,
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "absolutely": {
+    "https://quotes.toscrape.com/": 2
+  },
+  "ridiculous": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "boring": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "marilyn": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/5/": 4,
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "monroe": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/5/": 4,
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "yourself": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 2,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 3
+  },
+  "try": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "become": {
+    "https://quotes.toscrape.com/": 2,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "man": {
+    "https://quotes.toscrape.com/": 2,
+    "https://quotes.toscrape.com/page/5/": 2,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "success": {
+    "https://quotes.toscrape.com/": 2
+  },
+  "rather": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "value": {
+    "https://quotes.toscrape.com/": 2
+  },
+  "adulthood": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "hated": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "for": {
+    "https://quotes.toscrape.com/": 2,
+    "https://quotes.toscrape.com/page/2/": 2,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/6/": 3,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 1,
+    "https://quotes.toscrape.com/page/10/": 3
+  },
+  "you": {
+    "https://quotes.toscrape.com/": 4,
+    "https://quotes.toscrape.com/page/2/": 27,
+    "https://quotes.toscrape.com/page/3/": 22,
+    "https://quotes.toscrape.com/page/4/": 8,
+    "https://quotes.toscrape.com/page/5/": 8,
+    "https://quotes.toscrape.com/page/6/": 4,
+    "https://quotes.toscrape.com/page/7/": 13,
+    "https://quotes.toscrape.com/page/8/": 9,
+    "https://quotes.toscrape.com/page/9/": 2,
+    "https://quotes.toscrape.com/page/10/": 6
+  },
+  "loved": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "andr": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "gide": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "love": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 8,
+    "https://quotes.toscrape.com/page/3/": 5,
+    "https://quotes.toscrape.com/page/4/": 2,
+    "https://quotes.toscrape.com/page/5/": 8,
+    "https://quotes.toscrape.com/page/6/": 2,
+    "https://quotes.toscrape.com/page/7/": 7,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 4,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "i": {
+    "https://quotes.toscrape.com/": 2,
+    "https://quotes.toscrape.com/page/2/": 7,
+    "https://quotes.toscrape.com/page/3/": 6,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/6/": 11,
+    "https://quotes.toscrape.com/page/7/": 6,
+    "https://quotes.toscrape.com/page/8/": 11,
+    "https://quotes.toscrape.com/page/9/": 12,
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "failed": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "ve": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "just": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 3,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "found": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "won": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "t": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 11,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/5/": 2,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 3
+  },
+  "work": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "thomas": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "edison": {
+    "https://quotes.toscrape.com/": 2
+  },
+  "failure": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "paraphrased": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "woman": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "like": {
+    "https://quotes.toscrape.com/": 2,
+    "https://quotes.toscrape.com/page/2/": 2,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "tea": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/5/": 2
+  },
+  "bag": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "never": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 3,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/5/": 2,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 2,
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "know": {
+    "https://quotes.toscrape.com/": 2,
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/4/": 3
+  },
+  "how": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/9/": 2,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "strong": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "until": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "hot": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "water": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "eleanor": {
+    "https://quotes.toscrape.com/": 2,
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "roosevelt": {
+    "https://quotes.toscrape.com/": 2,
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "misattributed": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/4/": 2,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "day": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/7/": 2,
+    "https://quotes.toscrape.com/page/9/": 2
+  },
+  "sunshine": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "night": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "steve": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "martin": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/5/": 2,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "obvious": {
+    "https://quotes.toscrape.com/": 1
+  },
+  "simile": {
+    "https://quotes.toscrape.com/": 1,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "this": {
+    "https://quotes.toscrape.com/page/2/": 2,
+    "https://quotes.toscrape.com/page/3/": 2
+  },
+  "make": {
+    "https://quotes.toscrape.com/page/2/": 3,
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/5/": 2,
+    "https://quotes.toscrape.com/page/7/": 2,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "no": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/3/": 5,
+    "https://quotes.toscrape.com/page/5/": 2,
+    "https://quotes.toscrape.com/page/6/": 3,
+    "https://quotes.toscrape.com/page/7/": 2,
+    "https://quotes.toscrape.com/page/9/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "matter": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "re": {
+    "https://quotes.toscrape.com/page/2/": 4,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "going": {
+    "https://quotes.toscrape.com/page/2/": 3,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 2
+  },
+  "mess": {
+    "https://quotes.toscrape.com/page/2/": 2
+  },
+  "up": {
+    "https://quotes.toscrape.com/page/2/": 9,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 2,
+    "https://quotes.toscrape.com/page/9/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "sometimes": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "universal": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "truth": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 2,
+    "https://quotes.toscrape.com/page/10/": 5
+  },
+  "but": {
+    "https://quotes.toscrape.com/page/2/": 9,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/4/": 4,
+    "https://quotes.toscrape.com/page/5/": 4,
+    "https://quotes.toscrape.com/page/6/": 3,
+    "https://quotes.toscrape.com/page/7/": 2,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "part": {
+    "https://quotes.toscrape.com/page/2/": 2
+  },
+  "get": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "decide": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "girls": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "will": {
+    "https://quotes.toscrape.com/page/2/": 3,
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/4/": 2,
+    "https://quotes.toscrape.com/page/7/": 4,
+    "https://quotes.toscrape.com/page/8/": 2,
+    "https://quotes.toscrape.com/page/9/": 3,
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "friends": {
+    "https://quotes.toscrape.com/page/2/": 8,
+    "https://quotes.toscrape.com/page/6/": 2
+  },
+  "they": {
+    "https://quotes.toscrape.com/page/2/": 3,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "ll": {
+    "https://quotes.toscrape.com/page/2/": 4,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "act": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "anyway": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "remember": {
+    "https://quotes.toscrape.com/page/2/": 2,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/9/": 3
+  },
+  "some": {
+    "https://quotes.toscrape.com/page/2/": 2,
+    "https://quotes.toscrape.com/page/7/": 3,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "come": {
+    "https://quotes.toscrape.com/page/2/": 2,
+    "https://quotes.toscrape.com/page/7/": 2,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "go": {
+    "https://quotes.toscrape.com/page/2/": 4,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "ones": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "stay": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "with": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/7/": 7,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 1,
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "through": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "true": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "best": {
+    "https://quotes.toscrape.com/page/2/": 2,
+    "https://quotes.toscrape.com/page/9/": 2
+  },
+  "don": {
+    "https://quotes.toscrape.com/page/2/": 7,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "let": {
+    "https://quotes.toscrape.com/page/2/": 2,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "them": {
+    "https://quotes.toscrape.com/page/2/": 3,
+    "https://quotes.toscrape.com/page/3/": 4,
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "also": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "sisters": {
+    "https://quotes.toscrape.com/page/2/": 2
+  },
+  "lovers": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "well": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "too": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "baby": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "hate": {
+    "https://quotes.toscrape.com/page/2/": 3,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "say": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "most": {
+    "https://quotes.toscrape.com/page/2/": 3
+  },
+  "actually": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "pretty": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "much": {
+    "https://quotes.toscrape.com/page/2/": 3,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "all": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/4/": 2,
+    "https://quotes.toscrape.com/page/7/": 7,
+    "https://quotes.toscrape.com/page/8/": 2,
+    "https://quotes.toscrape.com/page/9/": 2
+  },
+  "break": {
+    "https://quotes.toscrape.com/page/2/": 2
+  },
+  "heart": {
+    "https://quotes.toscrape.com/page/2/": 2,
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "can": {
+    "https://quotes.toscrape.com/page/2/": 6,
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/4/": 3,
+    "https://quotes.toscrape.com/page/5/": 5,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 2
+  },
+  "give": {
+    "https://quotes.toscrape.com/page/2/": 5,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "because": {
+    "https://quotes.toscrape.com/page/2/": 4,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 3
+  },
+  "if": {
+    "https://quotes.toscrape.com/page/2/": 5,
+    "https://quotes.toscrape.com/page/3/": 3,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 2,
+    "https://quotes.toscrape.com/page/7/": 4,
+    "https://quotes.toscrape.com/page/8/": 2,
+    "https://quotes.toscrape.com/page/9/": 2,
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "find": {
+    "https://quotes.toscrape.com/page/2/": 2,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "soulmate": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "half": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "makes": {
+    "https://quotes.toscrape.com/page/2/": 4
+  },
+  "whole": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "goes": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "fail": {
+    "https://quotes.toscrape.com/page/2/": 2,
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "once": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "doesn": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/5/": 2,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "mean": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "gonna": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "at": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/7/": 2,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "keep": {
+    "https://quotes.toscrape.com/page/2/": 4,
+    "https://quotes.toscrape.com/page/5/": 2,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "trying": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "hold": {
+    "https://quotes.toscrape.com/page/2/": 2
+  },
+  "on": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/8/": 2,
+    "https://quotes.toscrape.com/page/9/": 2
+  },
+  "always": {
+    "https://quotes.toscrape.com/page/2/": 3,
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "believe": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/5/": 2,
+    "https://quotes.toscrape.com/page/9/": 2
+  },
+  "then": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "sweetie": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "so": {
+    "https://quotes.toscrape.com/page/2/": 3,
+    "https://quotes.toscrape.com/page/3/": 3,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "head": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "high": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "chin": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "importantly": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "smiling": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "beautiful": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "thing": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/9/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "smile": {
+    "https://quotes.toscrape.com/page/2/": 2
+  },
+  "about": {
+    "https://quotes.toscrape.com/page/2/": 2,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/6/": 2
+  },
+  "heartbreak": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "takes": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "great": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/4/": 3,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "deal": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "bravery": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "stand": {
+    "https://quotes.toscrape.com/page/2/": 2
+  },
+  "enemies": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "courage": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "explain": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "six": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "year": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "old": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "understand": {
+    "https://quotes.toscrape.com/page/2/": 2,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "simplicity": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "may": {
+    "https://quotes.toscrape.com/page/2/": 5,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "her": {
+    "https://quotes.toscrape.com/page/2/": 11,
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "first": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "last": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "she": {
+    "https://quotes.toscrape.com/page/2/": 12,
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "before": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/5/": 2
+  },
+  "again": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "loves": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "now": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "else": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/6/": 2,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "matters": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "perfect": {
+    "https://quotes.toscrape.com/page/2/": 2
+  },
+  "aren": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "either": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "together": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "laugh": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "cause": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "think": {
+    "https://quotes.toscrape.com/page/2/": 2,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 2,
+    "https://quotes.toscrape.com/page/8/": 5,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "twice": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "admit": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "being": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "human": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "making": {
+    "https://quotes.toscrape.com/page/2/": 2
+  },
+  "mistakes": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "onto": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "every": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "second": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "knows": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "hurt": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/4/": 2,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "analyze": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "expect": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "when": {
+    "https://quotes.toscrape.com/page/2/": 3,
+    "https://quotes.toscrape.com/page/3/": 3,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 2,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "happy": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "mad": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "miss": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "bob": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "marley": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "nonsense": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "wakes": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "brain": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "cells": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "fantasy": {
+    "https://quotes.toscrape.com/page/2/": 2
+  },
+  "necessary": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "ingredient": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "living": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "dr": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "seuss": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/4/": 2,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "gone": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "where": {
+    "https://quotes.toscrape.com/page/2/": 2,
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "intended": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "ended": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "needed": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "douglas": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "adams": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "navigation": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "opposite": {
+    "https://quotes.toscrape.com/page/2/": 5
+  },
+  "indifference": {
+    "https://quotes.toscrape.com/page/2/": 5
+  },
+  "art": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "ugliness": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "faith": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "heresy": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "death": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/4/": 2,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/9/": 2,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "elie": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "wiesel": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "activism": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "apathy": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "philosophy": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "lack": {
+    "https://quotes.toscrape.com/page/2/": 4
+  },
+  "friendship": {
+    "https://quotes.toscrape.com/page/2/": 4,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "unhappy": {
+    "https://quotes.toscrape.com/page/2/": 2
+  },
+  "marriages": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "friedrich": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "nietzsche": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "marriage": {
+    "https://quotes.toscrape.com/page/2/": 2
+  },
+  "sleepy": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "conscience": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "ideal": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "mark": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 3,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "twain": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 3,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "contentment": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "happens": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/7/": 3
+  },
+  "us": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "while": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "plans": {
+    "https://quotes.toscrape.com/page/2/": 2
+  },
+  "allen": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "saunders": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "fate": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "john": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "lennon": {
+    "https://quotes.toscrape.com/page/2/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "planning": {
+    "https://quotes.toscrape.com/page/2/": 1
+  },
+  "knowing": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "from": {
+    "https://quotes.toscrape.com/page/3/": 3,
+    "https://quotes.toscrape.com/page/7/": 2,
+    "https://quotes.toscrape.com/page/9/": 3,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "simply": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "problems": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "pride": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "way": {
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/9/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "do": {
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/4/": 2,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 4,
+    "https://quotes.toscrape.com/page/7/": 2,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "any": {
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/9/": 2
+  },
+  "loving": {
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "which": {
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "intimate": {
+    "https://quotes.toscrape.com/page/3/": 2
+  },
+  "hand": {
+    "https://quotes.toscrape.com/page/3/": 2
+  },
+  "upon": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "my": {
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/6/": 4,
+    "https://quotes.toscrape.com/page/7/": 3,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 2,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "chest": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "fall": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "asleep": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "eyes": {
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "close": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "pablo": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "neruda": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "poetry": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "minute": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "angry": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "lose": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "sixty": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "seconds": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "happiness": {
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "ralph": {
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "waldo": {
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "emerson": {
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "judge": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "people": {
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/8/": 3,
+    "https://quotes.toscrape.com/page/9/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "time": {
+    "https://quotes.toscrape.com/page/3/": 3,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 2,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "mother": {
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/4/": 2
+  },
+  "teresa": {
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/4/": 2
+  },
+  "attributed": {
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 2
+  },
+  "source": {
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "anyone": {
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "thinks": {
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "sitting": {
+    "https://quotes.toscrape.com/page/3/": 2
+  },
+  "church": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "christian": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "garage": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "car": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "garrison": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "keillor": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "religion": {
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "eye": {
+    "https://quotes.toscrape.com/page/3/": 2
+  },
+  "beholder": {
+    "https://quotes.toscrape.com/page/3/": 2
+  },
+  "misinformed": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "black": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "jim": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "henson": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "today": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "truer": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "alive": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "youer": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "comedy": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "want": {
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "children": {
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "intelligent": {
+    "https://quotes.toscrape.com/page/3/": 2
+  },
+  "read": {
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/4/": 2,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "fairy": {
+    "https://quotes.toscrape.com/page/3/": 3,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "tales": {
+    "https://quotes.toscrape.com/page/3/": 3,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "impossible": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "failing": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "something": {
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/7/": 3
+  },
+  "unless": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "cautiously": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "might": {
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "lived": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "case": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "by": {
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/9/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "default": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "logic": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "z": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "imagination": {
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "everywhere": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "music": {
+    "https://quotes.toscrape.com/page/3/": 2,
+    "https://quotes.toscrape.com/page/6/": 4
+  },
+  "hits": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "feel": {
+    "https://quotes.toscrape.com/page/3/": 1,
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "pain": {
+    "https://quotes.toscrape.com/page/3/": 1
+  },
+  "things": {
+    "https://quotes.toscrape.com/page/4/": 3,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "learn": {
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "places": {
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "learning": {
+    "https://quotes.toscrape.com/page/4/": 2
+  },
+  "reading": {
+    "https://quotes.toscrape.com/page/4/": 2,
+    "https://quotes.toscrape.com/page/5/": 3,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/8/": 3,
+    "https://quotes.toscrape.com/page/9/": 3
+  },
+  "course": {
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "happening": {
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "inside": {
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "why": {
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "earth": {
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "should": {
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/9/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "real": {
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "dumbledore": {
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "everyone": {
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/6/": 2,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "got": {
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "worth": {
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "suffering": {
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "small": {
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "organized": {
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "mind": {
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/8/": 2,
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "next": {
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "adventure": {
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "need": {
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "little": {
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "chocolate": {
+    "https://quotes.toscrape.com/page/4/": 2
+  },
+  "charles": {
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "m": {
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 3,
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "schulz": {
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "food": {
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "alone": {
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "william": {
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "nicholson": {
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "c": {
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 3
+  },
+  "lewis": {
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/9/": 3
+  },
+  "fool": {
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "point": {
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "knowledge": {
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "understanding": {
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "wisdom": {
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "imagined": {
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "paradise": {
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "kind": {
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "library": {
+    "https://quotes.toscrape.com/page/4/": 2,
+    "https://quotes.toscrape.com/page/9/": 2
+  },
+  "jorge": {
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "luis": {
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "borges": {
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "late": {
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "been": {
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "george": {
+    "https://quotes.toscrape.com/page/4/": 1,
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "eliot": {
+    "https://quotes.toscrape.com/page/4/": 1
+  },
+  "reader": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "lives": {
+    "https://quotes.toscrape.com/page/5/": 3,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "thousand": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "he": {
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "dies": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "said": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "jojen": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "reads": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "r": {
+    "https://quotes.toscrape.com/page/5/": 2,
+    "https://quotes.toscrape.com/page/7/": 2,
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "readers": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "cup": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "large": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "enough": {
+    "https://quotes.toscrape.com/page/5/": 2,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "book": {
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/8/": 2,
+    "https://quotes.toscrape.com/page/9/": 1,
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "long": {
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "suit": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "me": {
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/7/": 2,
+    "https://quotes.toscrape.com/page/8/": 3,
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "lies": {
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "eventually": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "trust": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "anything": {
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "riding": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "bicycle": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "balance": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "moving": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "lover": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "thrill": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "kissing": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "forehead": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "into": {
+    "https://quotes.toscrape.com/page/5/": 2
+  },
+  "staring": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "space": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "wise": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "girl": {
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "kisses": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "listens": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "leaves": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "left": {
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "darkness": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "see": {
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 2,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/9/": 3
+  },
+  "stars": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "luther": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "king": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "jr": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "hope": {
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 2
+  },
+  "someone": {
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "born": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "grow": {
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "does": {
+    "https://quotes.toscrape.com/page/5/": 2
+  },
+  "begin": {
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "end": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "seem": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "battle": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "war": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "growing": {
+    "https://quotes.toscrape.com/page/5/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "james": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "baldwin": {
+    "https://quotes.toscrape.com/page/5/": 1
+  },
+  "would": {
+    "https://quotes.toscrape.com/page/6/": 2
+  },
+  "those": {
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/7/": 2
+  },
+  "really": {
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 1,
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "notion": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "halves": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "nature": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "scares": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "fear": {
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/9/": 2
+  },
+  "inspiration": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "am": {
+    "https://quotes.toscrape.com/page/6/": 3,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "an": {
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/7/": 2,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "angel": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "sin": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "devil": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "big": {
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "were": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "physicist": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "probably": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "musician": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "often": {
+    "https://quotes.toscrape.com/page/6/": 2
+  },
+  "daydreams": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "terms": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "haruki": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "murakami": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "thought": {
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "difference": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "between": {
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "stupidity": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "its": {
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/9/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "limits": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "alexandre": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "dumas": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "fils": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "drug": {
+    "https://quotes.toscrape.com/page/6/": 2
+  },
+  "bella": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "stephenie": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "meyer": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "romance": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "friend": {
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "loyal": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "ernest": {
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "hemingway": {
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "novelist": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "quotes": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "door": {
+    "https://quotes.toscrape.com/page/6/": 2
+  },
+  "closes": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "another": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "opens": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "look": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "closed": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "opened": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "helen": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "keller": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "isn": {
+    "https://quotes.toscrape.com/page/6/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "finding": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "creating": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "bernard": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "shaw": {
+    "https://quotes.toscrape.com/page/6/": 1
+  },
+  "problem": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "drinking": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "poured": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "myself": {
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "drink": {
+    "https://quotes.toscrape.com/page/7/": 4
+  },
+  "bad": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "attempt": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "forget": {
+    "https://quotes.toscrape.com/page/7/": 3
+  },
+  "order": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "celebrate": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "happen": {
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "bukowski": {
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "alcohol": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "face": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "was": {
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "suzanne": {
+    "https://quotes.toscrape.com/page/7/": 2
+  },
+  "collins": {
+    "https://quotes.toscrape.com/page/7/": 2
+  },
+  "hunger": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "games": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "madly": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "right": {
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "kiss": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "anytime": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "vulnerable": {
+    "https://quotes.toscrape.com/page/7/": 2
+  },
+  "wrung": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "possibly": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "broken": {
+    "https://quotes.toscrape.com/page/7/": 2
+  },
+  "sure": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "keeping": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "intact": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "even": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "animal": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "wrap": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "carefully": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "round": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "hobbies": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "luxuries": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "avoid": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "entanglements": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "lock": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "safe": {
+    "https://quotes.toscrape.com/page/7/": 2
+  },
+  "casket": {
+    "https://quotes.toscrape.com/page/7/": 2
+  },
+  "coffin": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "selfishness": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "dark": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "motionless": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "airless": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "unbreakable": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "impenetrable": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "irredeemable": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "wander": {
+    "https://quotes.toscrape.com/page/7/": 2
+  },
+  "lost": {
+    "https://quotes.toscrape.com/page/7/": 2
+  },
+  "tolkien": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "bilbo": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "journey": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "quest": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "travel": {
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "pity": {
+    "https://quotes.toscrape.com/page/7/": 2
+  },
+  "dead": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "above": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "writing": {
+    "https://quotes.toscrape.com/page/7/": 2,
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "sit": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "down": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "typewriter": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "bleed": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "finish": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "each": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "done": {
+    "https://quotes.toscrape.com/page/7/": 2,
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "could": {
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/8/": 2
+  },
+  "blunders": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "absurdities": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "doubt": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "crept": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "soon": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "tomorrow": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "new": {
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "shall": {
+    "https://quotes.toscrape.com/page/7/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "serenely": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "spirit": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "encumbered": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "regrets": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "schooling": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "interfere": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "education": {
+    "https://quotes.toscrape.com/page/7/": 2
+  },
+  "heard": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "troubles": {
+    "https://quotes.toscrape.com/page/7/": 4
+  },
+  "ahead": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "behind": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "bought": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "bat": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "ready": {
+    "https://quotes.toscrape.com/page/7/": 1
+  },
+  "had": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "flower": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "walk": {
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "garden": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "forever": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "alfred": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "tennyson": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "crazy": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "horrible": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "lead": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "trouble": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "having": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "open": {
+    "https://quotes.toscrape.com/page/8/": 2
+  },
+  "insist": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "coming": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "along": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "put": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "terry": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "pratchett": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "low": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "oh": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "knocks": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "out": {
+    "https://quotes.toscrape.com/page/8/": 1,
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "wish": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "author": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "wrote": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "terrific": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "yours": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "call": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "him": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "phone": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "whenever": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "felt": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "d": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "salinger": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "authors": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "literature": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "reason": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "talk": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "whose": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "answers": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "accept": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "carlin": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "insanity": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "lying": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "self": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "indulgence": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "dreamer": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "someday": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "join": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "beatles": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "connection": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "dreamers": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "dreaming": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "dreams": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "peace": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "free": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "prejudice": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "equally": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "w": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "fields": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "sinister": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "question": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "stop": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "ayn": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "rand": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "praise": {
+    "https://quotes.toscrape.com/page/8/": 1
+  },
+  "made": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "mistake": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "tried": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "very": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "rapid": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "jumps": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "admiration": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "matrimony": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "moment": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "romantic": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "women": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "choice": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "easy": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "happened": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "boy": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "brave": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "strayed": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "across": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "path": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "lord": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "voldemort": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "cedric": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "diggory": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "integrity": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "declare": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "after": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "enjoyment": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "sooner": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "tires": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "house": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "own": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "miserable": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "excellent": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "few": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "whom": {
+    "https://quotes.toscrape.com/page/9/": 2
+  },
+  "still": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "fewer": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "dissatisfied": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "confirms": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "belief": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "inconsistency": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "characters": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "dependence": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "placed": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "appearance": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "merit": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "sense": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "elizabeth": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "bennet": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "start": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "age": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "fairytales": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "necessarily": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "doubting": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "god": {
+    "https://quotes.toscrape.com/page/9/": 2
+  },
+  "wondering": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "painful": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "turn": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "follows": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "fully": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "prepared": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "die": {
+    "https://quotes.toscrape.com/page/9/": 1,
+    "https://quotes.toscrape.com/page/10/": 3
+  },
+  "lie": {
+    "https://quotes.toscrape.com/page/9/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "around": {
+    "https://quotes.toscrape.com/page/9/": 1,
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "putting": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "shoes": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "christianity": {
+    "https://quotes.toscrape.com/page/9/": 2
+  },
+  "sun": {
+    "https://quotes.toscrape.com/page/9/": 2
+  },
+  "risen": {
+    "https://quotes.toscrape.com/page/9/": 1
+  },
+  "sighed": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "terrible": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "therefore": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "treated": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "caution": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "jimi": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "hendrix": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "awfully": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "barrie": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "e": {
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "cummings": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "comforted": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "khaled": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "hosseini": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "consider": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "his": {
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "view": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "climb": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "skin": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "harper": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "lee": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "empathy": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "write": {
+    "https://quotes.toscrape.com/page/10/": 3
+  },
+  "wants": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "written": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "difficult": {
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "grown": {
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "ups": {
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "madeleine": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "l": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "engle": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "writers": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "tell": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "worthy": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "needs": {
+    "https://quotes.toscrape.com/page/10/": 2
+  },
+  "sword": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "whetstone": {
+    "https://quotes.toscrape.com/page/10/": 1
+  },
+  "edge": {
+    "https://quotes.toscrape.com/page/10/": 1
+  }
+}
